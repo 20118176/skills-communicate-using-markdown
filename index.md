@@ -21,3 +21,7 @@ var myVar = "Hello, world!";
 print("this is how it works right?")
 print("yes it is!")
 ```
+# step 4: awesome task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
